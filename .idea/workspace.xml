@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5da50f3-875a-45c1-a30a-70aa6b230df5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-    </list>
+    <list default="true" id="c5da50f3-875a-45c1-a30a-70aa6b230df5" name="Default" comment="" />
     <ignored path="shoppingManager.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/native_libraries/" />
@@ -667,12 +664,12 @@
       <workItem from="1485016523059" duration="517000" />
       <workItem from="1485018761409" duration="429000" />
       <workItem from="1485019234303" duration="56000" />
-      <workItem from="1485019315654" duration="2026000" />
+      <workItem from="1485019315654" duration="2256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3028000" />
+    <option name="totallyTimeSpent" value="3258000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
