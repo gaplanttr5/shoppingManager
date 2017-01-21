@@ -1,4 +1,4 @@
-name := "my-first-app-without-activator"
+name := "shoppingManager"
 
 version := "1.0"
 
